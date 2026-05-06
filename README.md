@@ -4,7 +4,7 @@ A collection of beginner-friendly machine learning projects in Python. This repo
 
 ## 📁 Projects
 
-### 1. MNIST Handwritten Digit Classification (`Ai CNN.py`)
+### 1. MNIST Handwritten Digit Classification (`mnist_recognition.py`)
 A Convolutional Neural Network (CNN) built with PyTorch to classify handwritten digits from the MNIST dataset.
 
 **Key concepts:**
