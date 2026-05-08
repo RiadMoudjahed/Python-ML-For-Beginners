@@ -32,11 +32,22 @@ Classify emails as spam or not spam using logistic regression and TF-IDF vectori
 - Logistic regression for binary classification
 - Classification report and confusion matrix
 
+### 4. Iris Flower Classification (`iris_flower_classification.py`)
+Classify iris flowers into three species using a neural network built with PyTorch.
+
+**Key concepts:**
+- Building a fully connected neural network from scratch
+- Label encoding for categorical targets
+- Training loop with loss tracking
+- Loss visualization over epochs
+- Model evaluation with accuracy score
+
 ## 📊 Datasets Used
 
 - **MNIST**: Built-in from `torchvision.datasets`
 - **Housing Dataset**: Requires `housing.csv` (California housing dataset)
 - **Email Dataset**: Requires `emails.csv` (spam classification dataset)
+- **Iris Dataset**: Requires `iris.csv` (classic iris flower dataset)
 
 ## 📈 What You'll Learn
 - Data preprocessing (handling missing values, encoding categorical data)
